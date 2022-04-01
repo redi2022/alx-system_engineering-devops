@@ -1,2 +1,2 @@
-hello workd
-we start codding
+#!/bin/bash
+pwd
